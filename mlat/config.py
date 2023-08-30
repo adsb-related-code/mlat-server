@@ -29,7 +29,7 @@ from mlat import constants
 #
 # Please remember that this needs to be _the code that the server is running_.
 #
-AGPL_SERVER_CODE_URL = "https://github.com/adsbexchange/mlat-server"
+AGPL_SERVER_CODE_URL = "https://github.com/adsb-related-code/mlat-server/"
 
 # minimum NUCp value to accept as a sync message
 MIN_NUC = 6
